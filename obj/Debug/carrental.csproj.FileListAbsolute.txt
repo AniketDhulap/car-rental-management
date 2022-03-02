@@ -1,0 +1,17 @@
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\bin\Debug\carrental.exe.config
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\bin\Debug\carrental.exe
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\bin\Debug\carrental.pdb
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.csprojResolveAssemblyReference.cache
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.Form1.resources
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.Properties.Resources.resources
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.csproj.GenerateResource.Cache
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.exe
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.pdb
+c:\users\badboy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.carreg.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.customer.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.rental.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.returncar.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.crystalcar.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.crystalcustomer.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.crystalrental.resources
+C:\Users\BadBoy\onedrive\documents\visual studio 2012\Projects\carrental\carrental\obj\Debug\carrental.crystalreturn.resources
